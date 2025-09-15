@@ -125,22 +125,7 @@
             <div data-aos="fade-down" data-aos-delay="200" class="md:mr-10 cursor-pointer mb-6 md:mb-0">
               <img src="../assets/faiz.jpg" alt="saya" class="flex justify-center w-40 rounded-full"/>
               <article class="pt-2 flex justify-center items-center uppercase text-xl font-bold text-cyan-700 text-center w-40">faiz amsyari rustam</article>
-              <article class="flex justify-center items-center text-base font-bold text-black text-center"> aku sayang mama</article>
-            </div>
-            <div data-aos="fade-up" data-aos-delay="200" class="md:mr-10 cursor-pointer  mb-6 md:mb-0">
-              <img src="../assets/saya kotak.jpg" alt="saya" class="flex w-40 rounded-full"/>
-              <article class="pt-2 flex justify-center items-center uppercase text-xl font-bold text-cyan-700 text-center w-40">gempar sayang mama</article>
-              <article class="flex justify-center items-center text-base font-bold text-black text-center"> aku sayang mama</article>
-            </div>
-            <div data-aos="fade-down" data-aos-delay="200" class="md:mr-10 cursor-pointer items-center flex-col  mb-6 md:mb-0">
-              <img src="../assets/syamil.jpg" alt="saya" class="w-40 rounded-full"/>
-              <article class="pt-2 flex justify-center items-center uppercase text-xl font-bold text-cyan-700 text-center w-40">mujahidin syamil kaffah</article>
-              <article class="flex justify-center items-center text-base font-bold text-black text-center"> aku sayang mama</article>
-            </div>
-            <div data-aos="fade-up" data-aos-delay="200" class="md:mr-10 cursor-pointer  mb-6 md:mb-0">
-              <img src="../assets/saya kotak.jpg" alt="saya" class="flex w-40 rounded-full"/>
-              <article class="pt-2 flex justify-center items-center uppercase text-xl font-bold text-cyan-700 text-center w-40">gempar sayang mama</article>
-              <article class="flex justify-center items-center text-base font-bold text-black text-center"> aku sayang mama</article>
+              <article class="flex justify-center items-center text-base font-bold text-black text-center"> Web & Mobile Developer</article>
             </div>
           </div>
         </div>
